@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
 
+```sh
+ng new ng-material --prefix=aym --style=scss --routing --skip-install
+npm install --save @angular/material @angular/cdk
+npm install --save hammerjs
+```
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
